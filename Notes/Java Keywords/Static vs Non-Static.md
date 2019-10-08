@@ -27,13 +27,13 @@
           //Explicit Value Constructor
           public Kitty(final String name, final String name)
           {
-              this.name  = name;
+          this.name  = name;
               this.color = color;
           }
           
           public String getName()
           {
-      		    return this.name;
+      		return this.name;
           }
           
               //Do not be lazy, attempt to make clean code and easy to read/understand variable names.
@@ -44,7 +44,7 @@
           
           public String getColor()
           {
-      		    return this.color;
+      		return this.color;
           }
           
           //Do not be lazy, attempt to make clean code and easy to read/understand variable names.
