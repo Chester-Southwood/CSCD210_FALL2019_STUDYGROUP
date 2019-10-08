@@ -27,7 +27,7 @@
           //Explicit Value Constructor
           public Kitty(final String name, final String name)
           {
-              this.name  = name;
+          this.name  = name;
               this.color = color;
           }
           
