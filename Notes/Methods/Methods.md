@@ -1,9 +1,9 @@
 # Methods
 
-* [Overview](##Overview)
+* [Overview](##Overview) 
 
-* [Method Signature:](##Method Signature:)
-  * Method Return Notes
+* [Method Signature:](#Method Signature:)
+  * [Method Return Notes](###Return) 
 * [Method Precondition and Postcondition:](##Method Precondition and Postcondition:)
 
 ___
@@ -51,6 +51,8 @@ public class CodingMonkey
     }
 }
 ```
+
+### Return
 
 All methods must __return__ the specified data type, unless throwing an exception (do not worry about for now). __UNLESS__ they are returning void in their method signature, meaning that you do not return any data type. Usually void methods are changing an object's attributes or are printing something to the terminal/screen
 
