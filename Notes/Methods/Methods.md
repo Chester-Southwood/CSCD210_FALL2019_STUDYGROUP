@@ -3,19 +3,7 @@
 * [Overview](##Overview) 
 
 * [Method Signature:](#Method-Signature:)
-
-* [Method Signature: - Method Signature](#Method-Signature:)
-
-* ```
-  [Markdown - Markdown Editor](#Markdown-Editor)
-  
-  		[Markdown - Link](#Link)
-  ```
-
-* 
-
   * [Method Return Notes](###Return) 
-
 * [Method Precondition and Postcondition:](##Method-Precondition-and-Postcondition:)
 
 ___
