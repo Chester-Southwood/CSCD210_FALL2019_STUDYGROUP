@@ -1,8 +1,8 @@
 # Methods
 
-* [Overview](##Overview) 
+* [Overview](##-Overview-) 
 
-* [Method Signature:](#Method Signature:)
+* [Method Signature:](#Method-Signature:)
   * [Method Return Notes](###Return) 
 * [Method Precondition and Postcondition:](##Method Precondition and Postcondition:)
 
